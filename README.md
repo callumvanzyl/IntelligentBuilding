@@ -1,4 +1,4 @@
-# IntelligentBuilding
+# intelligent-building
 A program to simulate a basic building. Includes event-driven entities and tools. Spiritual successor to [this project](https://github.com/callumvanzyl/Forge). Created by Callum Van Zyl for Java coursework @ University of Reading.
 
 ![](images/1.png)
